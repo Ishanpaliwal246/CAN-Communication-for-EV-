@@ -1,4 +1,6 @@
 CAN-Communication-for-EV-
+
+
 📌 Project Overview This project demonstrates a CAN (Controller Area Network) based communication system used in Electric Vehicles. Multiple Electronic Control Units (ECUs) communicate over a common CAN bus to exchange real-time vehicle data.
 
 🔧 Project Features Multi-node CAN communication Real-time transmission of EV parameters Battery Temperature monitoring State of Charge (SOC) display Seatbelt status indication Live data display on LCD dashboard
